@@ -25,4 +25,4 @@ function teste() {
 function teste2() {
     console.log('Testando 2 Servidor')
 }
-export default { start, stop, pause, teste, test2, roda }
+export default { start, stop, pause, teste, test2, roda, rodrigo }
