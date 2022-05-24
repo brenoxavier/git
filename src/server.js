@@ -5,4 +5,9 @@ function start() {
 function stop() {
     console.log('Stopando Servidor')
 }
-export default { start, stop }
+
+function pause() {
+    console.log('Pausando Servidor')
+}
+
+export default { start, stop, pause }
