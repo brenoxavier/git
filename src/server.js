@@ -2,6 +2,10 @@ function start() {
     console.log('Iniciando Servidor')
 }
 
+function roda () {
+    return 'roda'
+}
+
 function stop() {
     console.log('Stopando Servidor')
 }
