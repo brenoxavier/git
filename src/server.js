@@ -10,4 +10,11 @@ function pause() {
     console.log('Pausando Servidor')
 }
 
-export default { start, stop, pause }
+function teste() {
+    console.log('Testando Servidor')
+}
+
+function teste2() {
+    console.log('Testando 2 Servidor')
+}
+export default { start, stop, pause, teste, test2 }
